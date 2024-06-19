@@ -27,25 +27,28 @@ The main objective is to analyze the data from the past month for the two affect
 
 The main results obtained from this Discovery Project are summarized below:
 
-**1. Ten neighborhoods with a high investment potential have been identified**
-* They can be segmented into 4 groups depending on the type, quality, and property location.
-* These 4 groups, which have been identified, are the following:
-  * *Low cost Investment*: Simancas, Ambroz, Marroquina, San Juan Bautista.
-  * *Medium cost investment*: El Plantio, Valdemarín, Valdefuentes.
-  * *Medium-high cost investment*: Jerónimos, Fuentela reina.
-  * *High cost investment*: Recoletos.
+**1. Both solar plants are receiving approximately the same amount of energy**
+* The two affected solar plants are receiving approximately the same energy levels based on irradiation, ambient temperature, and temperature reached by the photovoltaic modules.
+  * Irradiation is working on the modules from 7 am to 5 pm.
+  * Maximum irradiation is reached from 11 am to 12 am.
+  * Maximum ambient temperature is reached from 2 pm to 4 pm.
 
-**2. It is recommended to search for two-bedroom properties that can accommodate 4 guests**
-* The number of guests that maximize the rental price while minimizing the property's purchase price is 4.
+**2. The quality of the data is pretty bad**
+* The amount of KW registered per day is not trustworthy in either of the two affected plants.
+* The registered amounts of KW of DC and AC are also weird.
 
-**3. It is recommended to search for properties in one of the identified neighborhoods that are not necessarily close to points of interest**
-* These properties are expected to have a lower purchase price.
-* It seems that proximity to points of interest does not have a particular impact on rental prices.
+**3. Assuming that the DC and AC quantities are correct, we found that:**
+* Plant 2 generates much lower levels of DC even at similar levels of irradiation.
+* Plant 1 has much more variability, while Plant 2 is more consistent.
+* Plant 1 has a very low capacity to convert DC to AC.
+  * The inverters in Plant 1 are not working properly.
+* Plant 2 presents several inverters that are not receiving sufficient DC production.
+  * The inverters in Plant 2 are working fine, so the modules need inspection. 
   
-**4. A new business model based on rentals for specific moments of high sporting interest should be explored**
-* It is advisable to look for opportunities in the San Blas neighborhood.
-* These properties present a particularly high cost-income ratio per night.
-* There are still many rentals that are not exploiting this potential.
+**4. Recommendations**
+* Review the data collection processes and their reliability.
+* Perform a maintenance inspection on the identified inverters in Plant 2, since there are many moments of zero DC generation.
+* Perform a maintenance inspection of all inverters in Plant 1.
 
 ## Project structure
 
