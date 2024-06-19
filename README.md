@@ -54,13 +54,10 @@ The main results obtained from this Discovery Project are summarized below:
   * 📁 Imagenes: Contains project images.
 * 📁 Notebooks:
   * <mark>01_Diseño del proyecto.ipynb</mark>: Notebook compiling the initial design of the project.
-  * <mark>02_Analisis de ficheros y preparacion del caso.ipynb</mark>: Notebook analyzing the main data and how to obtain those.
-  * <mark>03_Creacion del Datamart Analitico.ipynb</mark>: Notebook creating analytic data mart (loading and unifying data, applying data quality processes, and so on).
-  * <mark>04_Preparacion de datos.ipynb</mark>: Notebook compilling feature engineering processes.
-  * <mark>05_Analisis e Insights.ipynb</mark>: Notebook used for the execution of the exploratory data analysis, which collects the business insights and the recommended actionable initiatives.
-  * <mark>06_Comunicacion de resultados.ipynb</mark>: Brief executive report for the communication of results using McKinsey's Exhibits methodology.
+  * <mark>02_Calidad de datos y creacion datamart analitico.ipynb</mark>: Notebook analyzing the quality of the data and creating the analytic data mart (loading and unifying data, applying data quality processes, and so on).
+  * <mark>03_Transformacion de datos.ipynb</mark>: Feature engineering and data transformation notebook.
+  * <mark>04_Analisis e Insights.ipynb</mark>: Notebook used for the execution of the exploratory data analysis, which collects the business insights and the recommended actionable initiatives.
 
 ## Instructions
 
-* Unzip airbnb.rar under 'Datos' folder.
 * Remember to update the <mark>project_path</mark> to the path where you have replicated the project.
