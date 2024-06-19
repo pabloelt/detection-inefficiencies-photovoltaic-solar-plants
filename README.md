@@ -1,4 +1,4 @@
-# Real Estate Market's Analysis for Rental Vacation
+# Detection of Inefficiencies in Photovoltaic Solar Plants
 
 ![featured](https://github.com/pabloelt/detection-inefficiencies-photovoltaic-solar-plants//blob/main/Datos/Imagenes/featured.jpg?raw=true)
 
