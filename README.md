@@ -1,3 +1,4 @@
+<div align="justify"> 
 # Detection of Inefficiencies in Photovoltaic Solar Plants
 
 ![featured](https://github.com/pabloelt/detection-inefficiencies-photovoltaic-solar-plants//blob/main/Datos/Imagenes/featured.jpg?raw=true)
@@ -53,6 +54,8 @@ The main results obtained from this Discovery Project are summarized below:
 * 📁 Notebooks:
   * <mark>01_Diseño del proyecto.ipynb</mark>: Notebook compiling the initial design of the project.
   * <mark>02_Calidad de datos y creacion datamart analitico.ipynb</mark>: Notebook analyzing the quality of the data and creating the analytic data mart (loading and unifying data, applying data quality processes, and so on).
+ 
+</div>
   * <mark>03_Transformacion de datos.ipynb</mark>: Feature engineering and data transformation notebook.
   * <mark>04_Analisis e Insights.ipynb</mark>: Notebook used for the execution of the exploratory data analysis, which collects the business insights and the recommended actionable initiatives.
 
