@@ -1,4 +1,3 @@
-<div align="justify"> 
 # Detection of Inefficiencies in Photovoltaic Solar Plants
 
 ![featured](https://github.com/pabloelt/detection-inefficiencies-photovoltaic-solar-plants//blob/main/Datos/Imagenes/featured.jpg?raw=true)
@@ -10,7 +9,8 @@
 * [Project structure](#project-structure)
 * [Instructions](#instructions)
 
-
+<div align="justify"> 
+ 
 ## Introduction
 
 The client for this project is a photovoltaic solar power generation company. This company, which operates nationwide, has detected anomalous behaviors in two of its plants. However, the maintenance team cannot identify the cause of the problem.
