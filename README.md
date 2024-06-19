@@ -12,17 +12,15 @@
 
 ## Introduction
 
-The client for this project is a real estate company that invests in large cities by purchasing properties to rent out as vacation apartments. The managers have decided to invest in Madrid and are interested in analyzing publicly available data from the sector leader, Airbnb, to identify the types of properties with the greatest commercial potential for vacation rentals.
+The client for this project is a photovoltaic solar power generation company. This company, which operates nationwide, has detected anomalous behaviors in two of its plants. However, the maintenance team cannot identify the cause of the problem.
 
-As the main deliverable, the management expects to receive a detailed typology of properties that the valuation team should target among the existing opportunities in the city, as well as the primary neighborhoods or geographic areas to focus on.
+Before dispatching a team of engineers, they have requested the data science team to analyze the sensor and performance data to identify the potential root cause of the issue.
 
  * [See a more detailed explanation here](https://pabloelt.github.io/project/project2/)
 
 ## Objectives
 
-The main objective is to identify the property profiles with the highest potential in the vacation rental market. This can guide the valuation team on where to start looking for such opportunities and highlight the key neighborhoods and geographical areas, which are most promising to focus on.
-
-This analysis is primarily conducted in terms of rental prices, occupancy levels, and purchase prices. 
+The main objective is to analyze the data from the past month for the two affected solar plants and investigate the root cause of the problem. Based on this analysis, the company will decide whether to dispatch a team of engineers to the plants or apply another solution.
 
 ## Project results
 
