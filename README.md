@@ -39,7 +39,7 @@ The main results obtained from this Discovery Project are summarized below:
 
 **3. Assuming that the DC and AC quantities are correct, we found that:**
 * Plant 2 generates much lower levels of DC even at similar levels of irradiation.
-* Plant 1 has much more variability, while Plant 2 is more consistent.
+  * Plant 1 has much more variability, while Plant 2 is more consistent.
 * Plant 1 has a very low capacity to convert DC to AC.
   * The inverters in Plant 1 are not working properly.
 * Plant 2 presents several inverters that are not receiving sufficient DC production.
