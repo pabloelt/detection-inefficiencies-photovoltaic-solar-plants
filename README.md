@@ -17,7 +17,7 @@ The client for this project is a photovoltaic solar power generation company. Th
 
 Before dispatching a team of engineers, they have requested the data science team to analyze the sensor and performance data to identify the potential root cause of the issue.
 
- * [See a more detailed explanation here](https://pabloelt.github.io/project/project2/)
+ * [See a technical explanation of the project here](https://pabloelt.github.io/project/project2/)
 
 ## Objectives
 
